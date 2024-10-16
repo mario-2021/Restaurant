@@ -164,6 +164,7 @@ body {
     position: absolute;
     bottom: 1px;
     right: 13px;
+    border-bottom-right-radius: 15px;
 }
 
 .landing .main-name {
